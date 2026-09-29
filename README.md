@@ -82,7 +82,7 @@ The Streamlit dashboard has four pages:
 **First time only:**
 
 ```bash
-cd dashboard_files1
+cd dashboard_files1/dashboard_files1
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -92,7 +92,7 @@ streamlit run app.py
 **Every time after that:**
 
 ```bash
-cd dashboard_files1
+cd dashboard_files1/dashboard_files1
 source venv/bin/activate
 streamlit run app.py
 ```
