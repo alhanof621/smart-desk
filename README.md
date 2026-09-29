@@ -89,6 +89,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 **Windows users:** replace source venv/bin/activate with venv\Scripts\activate.
+
 **Every time after that:**
 
 ```bash
