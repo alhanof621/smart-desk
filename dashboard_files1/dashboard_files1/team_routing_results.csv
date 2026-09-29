@@ -1,0 +1,6 @@
+Model,Accuracy,Macro F1
+LogReg (text),0.574,0.58
+LogReg (text + meta),0.573,0.575
+LinearSVC (text + meta),0.572,0.575
+RandomForest (text + meta),0.574,0.574
+Baseline (most frequent),0.144,0.036
